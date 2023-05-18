@@ -1,0 +1,37 @@
+a {
+    text-decoration: none;
+}
+
+.auth-header {
+    font-family: Roboto, Serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #31507D;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.auth-p {
+    font-family: Roboto, Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #91A1B9;
+    margin-bottom: 74px;
+    text-align: center;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+/*.detail-view th {*/
+/*    width: auto;*/
+/*}*/
+
+.btn-success, .btn-danger,  .btn-secondary, .btn-warning, .btn-info {
+    --cui-btn-color: white;
+}
